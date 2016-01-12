@@ -1,0 +1,13 @@
+{
+  "name": "Mes_Amis",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "ionic": "1.2.4"
+  },
+  "devDependencies": {}
+}

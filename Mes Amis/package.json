@@ -1,0 +1,8 @@
+{
+    "name": "Mes_Amis",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "chintan",
+    "contributors": [],
+    "dependencies": {}
+}
